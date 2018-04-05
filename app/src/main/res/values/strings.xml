@@ -5,5 +5,12 @@
     <string name="false_button">false</string>
     <string name="false_toast">wrong answer</string>
     <string name="correct_toast">congratulation, correct answer</string>
-    <string name="next_button">next question</string>
+    <string name="next_button">battle</string>
+    <string name="question_australia">australia</string>
+    <string name="question_oceans">oceans</string>
+    <string name="question_mideast">mideast</string>
+    <string name="question_africa">africa</string>
+    <string name="question_americas">americas</string>
+    <string name="question_asia">asia</string>
+    <string name="previous_button">previous</string>
 </resources>
