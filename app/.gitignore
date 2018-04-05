@@ -1,3 +1,4 @@
 /build
 /build/
 !/src/
+!/src/main/java/lin/airblock/com/geoquiz/
